@@ -1,5 +1,5 @@
-<h1>Hi, I'm Jeremiah, an <a href="www.linkedin.com/in/
-jeremiah-garcia-tech">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jeremiah, <a href="[www.linkedin.com/in/
+jeremiah-garcia-tech](https://www.linkedin.com/in/jeremiah-garcia-tech/)">@linkedin</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
