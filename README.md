@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Jeremiah 👋
 
 <!--
 **Jeremiah-Tech13/Jeremiah-Tech13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
