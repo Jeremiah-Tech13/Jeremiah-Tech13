@@ -6,7 +6,7 @@ jeremiahgarciaTX">@linkedin</a></h1>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/JeremiahGarciaTX/osTicket)
-  - [osTicket: Ticket Lifecycle](https://github.com/JeremiahGarciaTX/osTicket)
+  - [osTicket: Ticket Lifecycle](https://github.com/JeremiahGarciaTX/OsTicket-Minipulation)
 
 
 
